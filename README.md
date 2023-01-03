@@ -1,3 +1,2 @@
 # pythonpyjai
-for collecting some codes that I code!
-hope I can continue to code🥲
+for collecting some codes that I code! (from 100 days of code challenge)
